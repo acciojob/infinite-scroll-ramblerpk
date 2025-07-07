@@ -1,4 +1,4 @@
-const list = document.getElementById('list');
+const list = document.getElementById('infi-list');
 let count = 1;
 
 // Function to add list items
